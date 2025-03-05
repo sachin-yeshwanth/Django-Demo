@@ -1,2 +1,2 @@
 # Django-Demo
-Jenkins in one shot
+Jenkins in one shot demo
